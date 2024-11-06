@@ -1,0 +1,20 @@
+[
+  { "area": "Lobby", "activity": 45, "time": "2024-11-07T08:00:00Z" },
+  { "area": "Lobby", "activity": 50, "time": "2024-11-07T12:00:00Z" },
+  { "area": "Lobby", "activity": 20, "time": "2024-11-07T18:00:00Z" },
+  { "area": "Pool", "activity": 30, "time": "2024-11-07T09:00:00Z" },
+  { "area": "Pool", "activity": 78, "time": "2024-11-07T15:00:00Z" },
+  { "area": "Pool", "activity": 40, "time": "2024-11-07T20:00:00Z" },
+  { "area": "Restaurant", "activity": 60, "time": "2024-11-07T07:00:00Z" },
+  { "area": "Restaurant", "activity": 90, "time": "2024-11-07T13:00:00Z" },
+  { "area": "Restaurant", "activity": 55, "time": "2024-11-07T19:00:00Z" },
+  { "area": "Gym", "activity": 25, "time": "2024-11-07T06:00:00Z" },
+  { "area": "Gym", "activity": 50, "time": "2024-11-07T17:00:00Z" },
+  { "area": "Gym", "activity": 15, "time": "2024-11-07T21:00:00Z" },
+  { "area": "Spa", "activity": 32, "time": "2024-11-07T10:00:00Z" },
+  { "area": "Spa", "activity": 65, "time": "2024-11-07T14:00:00Z" },
+  { "area": "Spa", "activity": 40, "time": "2024-11-07T18:00:00Z" },
+  { "area": "Conference Room", "activity": 15, "time": "2024-11-07T11:00:00Z" },
+  { "area": "Conference Room", "activity": 30, "time": "2024-11-07T16:00:00Z" },
+  { "area": "Conference Room", "activity": 10, "time": "2024-11-07T20:00:00Z" }
+]
